@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+printf("\nsomething changed");
 printf("\nThis is git ********");
 return 0;
 }
